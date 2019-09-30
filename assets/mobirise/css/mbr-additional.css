@@ -1362,24 +1362,11 @@ section.lazy-placeholder:after {
 }
 .cid-rC3LX7cUcM {
   padding-top: 105px;
-  padding-bottom: 75px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rC3LX7cUcM .mbr-section-subtitle {
   color: #767676;
-}
-.cid-rC41XjlJ4Z {
-  background: #cccccc;
-  padding-top: 45px;
-  padding-bottom: 45px;
-}
-.cid-rC41XjlJ4Z .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rC41XjlJ4Z .video-block {
-    width: 100% !important;
-  }
 }
 .cid-rC42waK2ve {
   padding-top: 30px;
